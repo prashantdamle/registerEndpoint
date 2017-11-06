@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "register": {
+    "correlationid":"13123j-23213n12-232131",
+    "token":"31312321312030123012301230123120"
   }
 }
