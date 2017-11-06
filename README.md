@@ -1,1 +1,1 @@
-# registrationService
+# registerEndpoint
